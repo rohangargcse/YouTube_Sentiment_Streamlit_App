@@ -1,0 +1,8 @@
+
+streamlit
+google-api-python-client
+tensorflow
+pandas
+matplotlib
+seaborn
+deep-translator
